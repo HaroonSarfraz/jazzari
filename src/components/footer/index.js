@@ -14,7 +14,7 @@ export default class Footer extends Component {
                       data-wow-delay="0.6s" class="email wow fadeInUp"><i class="fa fa-envelope"></i></a></p>
             </div>
             <div class="col-md-6 text-center text-lg-right mt-4 mt-lg-0">
-              <p>© 2018 Jazzari. All rights reserved.</p>
+              <p>© 2020 Jazzari. All rights reserved.</p>
             </div>
           </div>
         </div>
