@@ -6,7 +6,7 @@ import About from './components/about';
 import Services from './components/services';
 import Testimonials from './components/testimonials';
 import Statistics from './components/statistics';
-import References from './components/statistics';
+import References from './components/references';
 import Customers from './components/customers';
 import ContactUs from './components/contactUs';
 import Map from './components/map';

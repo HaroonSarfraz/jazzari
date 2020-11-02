@@ -6,8 +6,8 @@ export default class Testimonials extends Component {
       <section id="testimonials" class="testimonials-section bg-gray">
         <div class="container">
           <header class="text-center mb-2">
-            <h2 data-animate="fadeInUp" class="title">My customers said<br /><span>about me</span></h2>
-            <p data-animate="fadeInUp" class="lead">I am always glad to hear that my customers leave satisfied. Some of
+            <h2 data-animate="fadeInUp" class="title">Our customers said<br /><span>about us</span></h2>
+            <p data-animate="fadeInUp" class="lead">We are always glad to hear that our customers leave satisfied. Some of
             them shared with you their insights on our cooperation.</p>
           </header>
           <ul data-animate="fadeInUp" class="owl-carousel owl-theme testimonials equalize-height">
@@ -16,7 +16,7 @@ export default class Testimonials extends Component {
                 <div class="text">
                   <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed
                     into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could
-                see his brown belly, slightly domed and divided by arches into stiff sections.</p>
+                    see his brown belly, slightly domed and divided by arches into stiff sections.</p>
                 </div>
                 <div class="bottom">
                   <div class="icon"><i class="fa fa-quote-left"></i></div>
@@ -32,7 +32,7 @@ export default class Testimonials extends Component {
                 <div class="text">
                   <p>The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs,
                     pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.
-                &quot;What is happened to me? &quot; he thought. It was not a dream.</p>
+                    &quot;What is happened to me? &quot; he thought. It was not a dream.</p>
                 </div>
                 <div class="bottom">
                   <div class="icon"><i class="fa fa-quote-left"></i></div>

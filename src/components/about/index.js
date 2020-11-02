@@ -7,54 +7,48 @@ export default class About extends Component {
       <section id="about" class="about-section">
         <div class="container">
           <header class="text-center">
-            <h2 data-animate="fadeInDown" class="title">About me</h2>
+            <h2 data-animate="fadeInDown" class="title">About Us</h2>
           </header>
           <div class="row">
             <div data-animate="fadeInUp" class="col-lg-6">
-              <p>An sincerity so extremity he additions. Her yet <strong>there truth merit</strong>. Mrs all projecting
-                favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage
-              strongly. Off can admiration prosperous now devonshire diminution law.</p>
-              <p>Received overcame oh sensible so at an. Formed do change merely to county it. <strong>Am separate
-                contempt</strong> domestic to to oh. On relation my so addition branched. Put hearing cottage she
-              norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill.
-              No father living really people estate if. Mistake do produce beloved demesne if am pursuit.</p>
-              <p>An sincerity so extremity he additions. Her yet <strong>there truth merit</strong>. Mrs all projecting
-                favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage
-              strongly. Off can admiration prosperous now devonshire diminution law.</p>
+              <p>
+                We at <strong>Jazzari</strong> provide the best possible IT solutions with <strong>Boosted Performance</strong> and <strong>High Quality</strong> to our valuable clients. We deal in Website, Mobile and Desktop Development. We also maintain pre-developed solutions too.
+                <br/><br/>Our main concern is <strong>Customer Satisfaction</strong>. We keep your business up to the latest market trends by providing elegant IT Solutions for your Business Problems.
+              </p>
             </div>
             <div data-animate="fadeInUp" class="col-lg-6">
               <div class="skill-item">
-                <div class="progress-title">PHP</div>
+                <div class="progress-title">Web Application Development</div>
                 <div class="progress">
-                  <div role="progressbar" style={{width: "60%"}} aria-valuenow="0" aria-valuemin="60" aria-valuemax="100"
+                  <div role="progressbar" style={{ width: "90%" }} aria-valuenow="0" aria-valuemin="60" aria-valuemax="100"
                     class="progress-bar progress-bar-skill1"></div>
                 </div>
               </div>
               <div class="skill-item">
-                <div class="progress-title">Javascript</div>
+                <div class="progress-title">Mobile Application Development</div>
                 <div class="progress">
-                  <div role="progressbar" style={{width: "70%"}} aria-valuenow="70" aria-valuemin="60" aria-valuemax="100"
+                  <div role="progressbar" style={{ width: "70%" }} aria-valuenow="70" aria-valuemin="60" aria-valuemax="100"
                     class="progress-bar progress-bar-skill2"></div>
                 </div>
               </div>
               <div class="skill-item">
-                <div class="progress-title">HTML coding</div>
+                <div class="progress-title">Cloud Computing</div>
                 <div class="progress">
-                  <div role="progressbar" style={{width: "80%"}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                  <div role="progressbar" style={{ width: "80%" }} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
                     class="progress-bar progress-bar-skill3"></div>
                 </div>
               </div>
               <div class="skill-item">
-                <div class="progress-title">SEO</div>
+                <div class="progress-title">Digital Marketing</div>
                 <div class="progress">
-                  <div role="progressbar" style={{width: "90%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
+                  <div role="progressbar" style={{ width: "90%" }} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
                     class="progress-bar progress-bar-skill4"></div>
                 </div>
               </div>
               <div class="skill-item">
-                <div class="progress-title">SEM</div>
+                <div class="progress-title">Consultancy</div>
                 <div class="progress">
-                  <div role="progressbar" style={{width: "70%"}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"
+                  <div role="progressbar" style={{ width: "70%" }} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"
                     class="progress-bar progress-bar-skill5"></div>
                 </div>
               </div>

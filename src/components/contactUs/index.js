@@ -6,7 +6,7 @@ export default class ContactUs extends Component {
       <section id="contact" data-animate="bounceIn" class="contact-section contact">
         <div class="container">
           <header class="text-center">
-            <h2 class="title">Contact me</h2>
+            <h2 class="title">Contact us</h2>
           </header>
           <div class="row">
             <div class="col-lg-8 mx-auto">

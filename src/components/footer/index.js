@@ -14,12 +14,7 @@ export default class Footer extends Component {
                       data-wow-delay="0.6s" class="email wow fadeInUp"><i class="fa fa-envelope"></i></a></p>
             </div>
             <div class="col-md-6 text-center text-lg-right mt-4 mt-lg-0">
-              <p>© 2018 Your name goes here. All rights reserved.</p>
-            </div>
-            <div class="col-12 mt-4">
-              <p class="template-bootstrapious">Template by <a
-                href='https://bootstrapious.com/p/bootstrap-carousel'>Bootstrapious</a> & <a
-                  href="https://fity.cz/ostrava">Fity</a></p>
+              <p>© 2018 Jazzari. All rights reserved.</p>
             </div>
           </div>
         </div>

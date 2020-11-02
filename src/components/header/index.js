@@ -5,7 +5,7 @@ export default class Header extends Component {
     return (
       <header class="header">
         <nav class="navbar navbar-expand-lg fixed-top">
-          <div class="container"><a href="#intro" class="navbar-brand scrollTo">IT Worker</a>
+          <div class="container"><a href="#intro" class="navbar-brand scrollTo">Jazzari</a>
             <button type="button" data-toggle="collapse" data-target="#navbarcollapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><span class="fa fa-bars"></span></button>
             <div id="navbarcollapse" class="collapse navbar-collapse">
               <ul class="navbar-nav ml-auto">
