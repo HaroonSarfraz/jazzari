@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jazzari/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/jazzari/static/js/main.6514d5ef.chunk.js",
-    "main.js.map": "/jazzari/static/js/main.6514d5ef.chunk.js.map",
+    "main.js": "/jazzari/static/js/main.885db2d5.chunk.js",
+    "main.js.map": "/jazzari/static/js/main.885db2d5.chunk.js.map",
     "runtime-main.js": "/jazzari/static/js/runtime-main.ed411d20.js",
     "runtime-main.js.map": "/jazzari/static/js/runtime-main.ed411d20.js.map",
     "static/js/2.7265317c.chunk.js": "/jazzari/static/js/2.7265317c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ed411d20.js",
     "static/js/2.7265317c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.6514d5ef.chunk.js"
+    "static/js/main.885db2d5.chunk.js"
   ]
 }
