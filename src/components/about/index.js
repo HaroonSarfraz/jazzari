@@ -12,8 +12,8 @@ export default class About extends Component {
           <div class="row">
             <div data-animate="fadeInUp" class="col-lg-6">
               <p>
-                We at <strong>Jazzari</strong> provide the best possible IT solutions with <strong>Boosted Performance</strong> and <strong>High Quality</strong> to our valuable clients. We deal in Website, Mobile and Desktop Development. We also maintain pre-developed solutions too.
-                <br/><br/>Our main concern is <strong>Customer Satisfaction</strong>. We keep your business up to the latest market trends by providing elegant IT Solutions for your Business Problems.
+                <strong>We’re consultants, software developers, digital marketers and DevOps engineers.</strong>
+                <br/><br/>We have a collective experience of over a decade in software industry, producing new solutions, enhancing and improving existing solutions. We emphasize on smart, effective and long-lasting solutions for our satisfied clients worldwide. Here, at Jazzari, customer satisfaction and engagement come first.
               </p>
             </div>
             <div data-animate="fadeInUp" class="col-lg-6">
