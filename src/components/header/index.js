@@ -14,7 +14,7 @@ export default class Header extends Component {
                 <li class="nav-item"><a href="#services" class="nav-link link-scroll">Services</a></li>
                 <li class="nav-item"><a href="#testimonials" class="nav-link link-scroll">Testimonials</a></li>
                 <li class="nav-item"><a href="#references" class="nav-link link-scroll">My work</a></li>
-                <li class="nav-item"><a href="#customers" class="nav-link link-scroll">Clients</a></li>
+                <li class="nav-item"><a href="#customers" class="nav-link link-scroll">Tech</a></li>
                 <li class="nav-item"><a href="#contact" class="nav-link link-scroll">Contact</a></li>
               </ul>
             </div>
