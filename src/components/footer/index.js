@@ -1,25 +1,24 @@
 import React, { Component } from 'react';
 
-export default class Footer extends Component {
-  render() {
-    return (
-      <footer class="main-footer">
-        <div class="container">
-          <div class="row">
-            {/* <div class="col-md-6 text-center text-lg-left">
-              <p class="social">
-                <a href="#" class="external facebook wow fadeInUp"><i class="fa fa-facebook"></i></a>
-                <a href="#" data-wow-delay="0.2s" class="external instagram wow fadeInUp"><i class="fa fa-instagram"></i></a>
-                <a href="#" data-wow-delay="0.4s" class="external gplus wow fadeInUp"><i class="fa fa-google-plus"></i></a>
-                <a href="#" data-wow-delay="0.6s" class="email wow fadeInUp"><i class="fa fa-envelope"></i></a>
-                </p>
-            </div> */}
-            <div class="col-md-6 text-center text-lg-right mt-4 mt-lg-0">
-              <p>© 2020 Jazzari. All rights reserved.</p>
-            </div>
+export default () => {
+  return (
+    <footer className="main-footer">
+      <div className="container">
+        <div className="row">
+          {/* <div className="col-md-6 text-center text-lg-left">
+            <p className="social">
+              <a href="#" className="external facebook wow fadeInUp"><i className="fa fa-facebook"></i></a>
+              <a href="#" data-wow-delay="0.2s" className="external instagram wow fadeInUp"><i className="fa fa-instagram"></i></a>
+              <a href="#" data-wow-delay="0.4s" className="external gplus wow fadeInUp"><i className="fa fa-google-plus"></i></a>
+              <a href="#" data-wow-delay="0.6s" className="email wow fadeInUp"><i className="fa fa-envelope"></i></a>
+              </p>
+          </div> */}
+          <div className="col-md-6 text-center text-lg-right mt-4 mt-lg-0">
+            <p>© 2020 Jazzari. All rights reserved.</p>
           </div>
         </div>
-      </footer>
-    );
-  }
+      </div>
+    </footer>
+  );
 }
+
