@@ -1,0 +1,41 @@
+#intro {
+  display: flex;
+}
+
+#intro .background-video {
+  width: 100%;
+  height: 100vh;
+  object-fit: fill;
+}
+
+#intro .foreground {
+  margin-left: -90%;
+  margin-top: 15%;
+}
+
+#intro .foreground .logo-image {
+  width: 250px;
+}
+
+#intro .foreground h1 {
+  color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  #intro .background-video {
+    height: 80vh;
+  }
+
+
+  #intro .foreground {
+    margin-top: 20%;
+  }
+
+  #intro .foreground .logo-image {
+    width: 170px;
+  }
+
+  #intro .foreground h1 {
+    font-size: 20px;
+  }
+}
