@@ -52,7 +52,7 @@ export default () => {
             </div>
           </div>
           <div data-animate="fadeInUp" className="col-sm-6 mx-auto mt-5"><img src="img/about.jpg"
-            alt="This is me - IT worker" className="image rounded-circle img-fluid" /></div>
+            alt="This is a - IT worker" className="image rounded-circle img-fluid" /></div>
         </div>
       </div>
     </section>

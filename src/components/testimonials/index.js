@@ -70,7 +70,7 @@ export default () => {
           <li className="item">
             <div className="testimonial full-height">
               <div className="text">
-                <p>An excellent seller with excellent communication skills. I highly recommend others to buy from him.</p>
+                <p>An excellent team with excellent communication skills. I highly recommend them to others.</p>
               </div>
               <div className="bottom">
                 <div className="icon"><i className="fa fa-quote-left"></i></div>
@@ -103,9 +103,9 @@ export default () => {
               </div>
               <div className="bottom">
                 <div className="icon"><i className="fa fa-quote-left"></i></div>
-                <div className="name-picture"><img alt="" src="img/testimonials/default.jpg" />
+                <div className="name-picture"><img alt="" src="img/testimonials/marman.jpg" />
                   <h5>Marman garcia</h5>
-                  <p>&nbsp;</p>
+                  <p>Philippines</p>
                 </div>
               </div>
             </div>
@@ -120,7 +120,7 @@ export default () => {
                 <div className="icon"><i className="fa fa-quote-left"></i></div>
                 <div className="name-picture"><img alt="" src="img/testimonials/default.jpg" />
                   <h5>Aniqra jabs</h5>
-                  <p>&nbsp;</p>
+                  <p>Sri Lanka</p>
                 </div>
               </div>
             </div>
@@ -129,13 +129,13 @@ export default () => {
           <li className="item">
             <div className="testimonial full-height">
               <div className="text">
-                <p>Awesome tea. Very good and fast communication. They definetly knows a ton about working with android &#128521;. Will come here again if I need something.</p>
+                <p>Awesome team. Very good and fast communication. They definetly knows a ton about working with android &#128521;. Will come here again if I need something.</p>
               </div>
               <div className="bottom">
                 <div className="icon"><i className="fa fa-quote-left"></i></div>
                 <div className="name-picture"><img alt="" src="img/testimonials/default.jpg" />
-                  <h5>Philipp dormann1</h5>
-                  <p>&nbsp;</p>
+                  <h5>Philipp dormann</h5>
+                  <p>Germany</p>
                 </div>
               </div>
             </div>
@@ -148,9 +148,9 @@ export default () => {
               </div>
               <div className="bottom">
                 <div className="icon"><i className="fa fa-quote-left"></i></div>
-                <div className="name-picture"><img alt="" src="img/testimonials/default.jpg" />
-                  <h5>Mohsen 571</h5>
-                  <p>&nbsp;</p>
+                <div className="name-picture"><img alt="" src="img/testimonials/mohsen.jpg" />
+                  <h5>Mohsen</h5>
+                  <p>Norway</p>
                 </div>
               </div>
             </div>

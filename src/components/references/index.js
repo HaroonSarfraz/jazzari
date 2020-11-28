@@ -7,7 +7,7 @@ export default () => {
         <div className="col-sm-12">
           <div className="mb-5 text-center">
             <h2 data-animate="fadeInUp" className="title">Our work</h2>
-            <p data-animate="fadeInUp" className="lead">I have worked on dozens of projects so I have picked only the latest
+            <p data-animate="fadeInUp" className="lead">We have worked on dozens of projects so we have picked only the latest
             for you.</p>
           </div>
           <ul id="filter" data-animate="fadeInUp">
