@@ -13,6 +13,21 @@ export default () => {
           <li class="item">
             <div class="testimonial full-height">
               <div class="text">
+                <p>Throughout our working relationship, they have demonstrated exceptional management and development skills.
+                  Technical knowledge and efficiency was extra-ordinary.</p>
+              </div>
+              <div class="bottom">
+                <div class="icon"><i class="fa fa-quote-left"></i></div>
+                <div class="name-picture"><img alt="" src="img/testimonials/hermonn.jpeg" />
+                  <h5>Hermann</h5>
+                  <p>Italy</p>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item">
+            <div class="testimonial full-height">
+              <div class="text">
                 <p>Great job... Once more</p>
               </div>
               <div class="bottom">
