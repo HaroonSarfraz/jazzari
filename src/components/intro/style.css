@@ -23,7 +23,7 @@
 
 @media only screen and (max-width: 600px) {
   #intro .background-video {
-    height: 80vh;
+    height: 320px
   }
 
 
@@ -36,6 +36,6 @@
   }
 
   #intro .foreground h1 {
-    font-size: 20px;
+    font-size: 25px;
   }
 }
