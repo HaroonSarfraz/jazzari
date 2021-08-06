@@ -9,7 +9,7 @@
 }
 
 #intro .foreground {
-  margin-left: -90%;
+  margin-left: calc(-555px - 50%);
   margin-top: 40vh;
 }
 
